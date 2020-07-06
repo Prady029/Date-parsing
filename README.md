@@ -1,2 +1,2 @@
 # Date-parsing
-Lannet INternship task
+Lannet internship task
